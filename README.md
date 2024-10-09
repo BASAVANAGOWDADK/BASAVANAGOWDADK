@@ -51,7 +51,8 @@ I am a **Full Stack Developer with over 2 years of experience**, specializing in
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/basavanagowda-d-k-b6b56a1a2/)
-- Email: basavanagowdadk@gmail.com
+- [Email](basavanagowdadk@gmail.com)
+- [Outlook](basavanagowdadk@outlook.com)
 
 ## 🏆 Awards
 - **Product Catalyst Award** (September 2024): Awarded for driving innovation forward.
