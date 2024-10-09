@@ -1,6 +1,6 @@
 # Hi there, I'm @BASAVANAGOWDADK 👋
 
-I am a **Full Stack Developer with over 2 years of experience**, specializing in Moodle customization, plugin development, and web development. Proficient in both frontend and backend development with expertise in HTML, JavaScript, Bootstrap. Skilled in deploying and managing applications on web servers such as Apache and Nginx, and experienced with cloud platforms like Azure. Adept in version control using Git, GitHub, and Bitbucket. Below is a summary of my skills and experience.
+I am a **Full Stack Developer with over 2+ years of experience**, specializing in Moodle customization, plugin development, and web development. Proficient in both frontend and backend development with expertise in HTML, JavaScript, Bootstrap. Skilled in deploying and managing applications on web servers such as Apache and Nginx, and experienced with cloud platforms like Azure. Adept in version control using Git, GitHub, and Bitbucket. Below is a summary of my skills and experience.
 
 ## 🚀 Skills
 ### Backend Development
