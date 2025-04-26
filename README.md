@@ -1,4 +1,4 @@
-![Banner](image.jpg)
+![Banner](banner.jpg)
 
 # Hi, I'm Basavanagowda DK 👋
 
