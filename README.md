@@ -5,7 +5,7 @@
 🚀 **Full Stack Developer | Moodle Specialist | Cloud Enthusiast**
 
 I'm a developer who builds smart solutions — not just software.  
-With almost 3 years of experience in **Moodle customization**, **plugin development**, and **full stack web development**, I specialize in **streamlining workflows** through **AI-driven automation**, **cloud infrastructure deployments** (Azure, AWS), and **DevOps scripting**.
+With 3 years of experience in **Moodle customization**, **plugin development**, and **full stack web development**, I specialize in **streamlining workflows** through **AI-driven automation**, **cloud infrastructure deployments** (Azure, AWS), and **DevOps scripting**.
 
 I believe coding should be about leverage: less grunt work, more impact.
 
