@@ -78,7 +78,7 @@ With 3+ years of experience building **custom Moodle LMS**, deploying **CI/CD pi
 - 🔗 [LinkedIn](https://www.linkedin.com/in/basavanagowda-d-k-b6b56a1a2)  
 - 💼 [Portfolio](https://www.basavanagowdadk.work)  
 - 📧 [Email](mailto:basavanagowdadk@gmail.com)  
-- 📁 [Resume](https://www.basavanagowdadk.work/resume)
+- 📁 [Resume]([https://www.basavanagowdadk.work/resume](https://drive.google.com/drive/folders/10mMLMhv6o8Cd7BayDe4KqLI7waCaPWia?dmr=1&ec=wgc-drive-hero-goto))
 
 ---
 
