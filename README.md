@@ -1,65 +1,92 @@
 ![Banner](banner.jpg)
 
-# Hi, I'm Basavanagowda DK 👋
+# 👋 Hi, I'm Basavanagowda DK
 
-🚀 **Full Stack Developer | Moodle Specialist | Cloud Enthusiast**
+🚀 **DevOps Engineer | Full Stack Developer | Moodle LMS Specialist | Azure & AWS Certified**
 
-I'm a developer who builds smart solutions — not just software.  
-With 3 years of experience in **Moodle customization**, **plugin development**, and **full stack web development**, I specialize in **streamlining workflows** through **AI-driven automation**, **cloud infrastructure deployments** (Azure, AWS), and **DevOps scripting**.
+I help companies scale their learning platforms and automation pipelines — faster, cheaper, and with fewer headaches.
 
-I believe coding should be about leverage: less grunt work, more impact.
-
----
-
-## 🔥 What I Do Best
-
-- **Backend:** PHP, Java, Moodle API, Custom Plugin Development
-- **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap 5
-- **Cloud & DevOps:** Microsoft Azure (AZ-104 Certified), AWS, Apache, Nginx, Shell Scripting, CI/CD Pipelines.
-- **Version Control:** Git, GitHub, Bitbucket
-- **Database:** MySQL
-- **Project Management:** Agile, JIRA
-- **AI Tools:** GitHub Copilot, Cursor (Agent Mode), ChatGPT, Grok
+With 3+ years of experience building **custom Moodle LMS**, deploying **CI/CD pipelines**, and optimizing **cloud infrastructure**, I specialize in reducing complexity and delivering scalable, secure, and cost-effective solutions.
 
 ---
 
-## 🛠️ Projects & Contributions
+## 💼 Who I Help
 
-- **AI Automation Tools** — Automating Bootstrap 4 ➔ Bootstrap 5 migrations for Moodle plugins to save hours of manual effort.  
-  👉 [Check it out](https://github.com/BASAVANAGOWDADK/ai-automation-tools)
-
-*(More coming soon...)*
-
----
-
-## 🏆 Awards & Achievements
-
-- **Product Catalyst Award** (Sep 2024) – *Recognized for Driving Innovation Forward*
-- **Best Employee of the Month** – *May 2023 and March 2024*
-- **Best Team of the Year** (2022-2023) – *Top-Performing Team Award*
+✅ **Product teams** building LMS or internal learning platforms  
+✅ **Startups** needing end-to-end CI/CD pipelines and DevOps scripting  
+✅ **Organizations** looking to cut Azure/AWS infra costs without breaking features
 
 ---
 
-## 📈 Professional Experience
+## ⚙️ Tech Stack & Tools
 
-**Full Stack Developer — Succeed Technologies Pvt. Ltd., Bangalore**  
-*(Aug 2022 – Present)*
-
-- Upgraded multiple Moodle instances to 5.x with plugin/theme compatibility.
-- Automated plugin migrations and debugging using AI tools.
-- Developed, deployed, and optimized Moodle-based eLearning platforms.
-- Created custom DevOps scripts and AWS automation workflows.
-- Led sprint planning and Agile execution via JIRA.
-- Configured scalable server environments (SSL, virtual hosts, optimization).
+**Languages & Backend:** PHP, Java, JavaScript (ES6+), Moodle API, REST  
+**Frontend:** HTML5, CSS3, Bootstrap 5, jQuery  
+**DevOps & Cloud:** Azure (AZ-104), AWS (EC2, S3, IAM), Jenkins, Docker, GitHub Actions, Terraform  
+**Infra & Web Servers:** Apache, Nginx, Shell scripting, SSL, VM provisioning  
+**Databases:** MySQL, PostgreSQL  
+**Automation/AI Tools:** GitHub Copilot, ChatGPT, Cursor, Grok  
+**Project Management:** Git, Bitbucket, JIRA, Agile/Scrum
 
 ---
 
-## 📬 Let's Connect
+## 📈 Highlight Projects
 
-- [LinkedIn](https://www.linkedin.com/in/basavanagowda-d-k-b6b56a1a2/)
-- [Email](mailto:basavanagowdadk@gmail.com)
-- [Outlook](mailto:basavanagowdadk@outlook.com)
+### 🔹 CI/CD Infrastructure for Moodle-Based LMS
+- Built pipeline with Jenkins, Docker, GitHub Actions  
+- Terraform-based infra-as-code deployment (Azure & AWS)  
+- ✅ *Reduced release time by 60% and improved reliability*
+
+### 🔹 Azure WAF Cost Optimization
+- Re-architected Azure infra from multiple gateways into a single multi-site gateway  
+- ✅ *Cut cloud infra costs by 80%, zero downtime during migration*
+
+### 🔹 [AI Automation Tools](https://github.com/BASAVANAGOWDADK/ai-automation-tools)
+- Shell-based tool for auto-converting Moodle Bootstrap 4 ➝ 5  
+- ✅ *Saved 10+ hours per plugin upgrade for developers*
 
 ---
 
-> **"Don't automate to save time. Automate to build bigger things."** 🚀
+## 🏆 Awards & Recognition
+
+- 🏅 **Product Catalyst Award** – *For SCORMBridge innovation* (Sep 2024)  
+- 🧠 **Employee of the Month** – *March 2024, May 2023*  
+- 💎 **Best Team of the Year** – *2022–2023 Engineering Team Award*  
+- 🔥 **Level 2 EOM** – *Reduced Azure cost by 80% (June 2025)*
+
+---
+
+## 📚 Certifications
+
+- **AZ-104: Microsoft Azure Administrator**  
+  VM provisioning, RBAC, AD, networking, infra monitoring
+
+- **Full-Stack Development & Testing (QSpiders)**  
+  HTML/CSS/JS, Core Java, Selenium, TestNG, JIRA Agile
+
+---
+
+## 🧠 What I Believe
+
+> **“Don’t automate to save time. Automate to build bigger things.”**  
+> – That’s how I approach every project — with leverage, speed, and simplicity.
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/basavanagowda-d-k-b6b56a1a2)  
+- 💼 [Portfolio](https://www.basavanagowdadk.work)  
+- 📧 [Email](mailto:basavanagowdadk@gmail.com)  
+- 📁 [Resume](https://www.basavanagowdadk.work/resume)
+
+---
+
+## 🔍 What’s Next?
+
+I’m actively open to:
+- 📬 Freelance or consulting in Moodle, DevOps, CI/CD, Cloud
+- 🤝 Collaborations with product teams or startups
+- 💻 Full-time roles focused on automation, scalability, and developer tooling
+
+Let’s connect and build smarter systems together.
